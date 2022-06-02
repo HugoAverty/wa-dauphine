@@ -406,7 +406,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"FranceMeta Island that links the french metaverse community."
+         "value":"Map for Carrefour"
         }, 
         {
          "name":"mapImage",
@@ -416,12 +416,12 @@
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/valdotr.github.io\/scalezia-map\/map.json"
+         "value":"https:\/\/github.com\/HugoAverty\/wa-dauphine"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Genesis"
+         "value":"Carrefour Dauphine"
         }, 
         {
          "name":"script",
